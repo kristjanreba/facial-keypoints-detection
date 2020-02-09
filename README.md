@@ -1,5 +1,7 @@
 ## Facial Keypoints Detection with CNN
 
+We predict facial keypoints using convolutional neural network.
+
 - */src* -> contains the code
 - */data* -> contains the data used in our experiments
 
